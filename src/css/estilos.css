@@ -1,0 +1,95 @@
+#homebody{
+    font-family: "Roboto";
+    border-bottom: #424242;
+}
+#dezenas{
+    border-radius: 50%;
+    background-color: #209869;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    border: #209869; 
+}
+#dezenasQuina{
+    border-radius: 50%;
+    background-color: #260085;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    border: #260085; 
+}
+#linha{
+    height: 30px;
+    padding-bottom: 7%;
+}
+#acumulado{
+    color: #0066b3;
+    font-size: 32px;
+}
+#tituloMega{
+    color: #209869;
+    font-size: 30px;
+}
+#tituloQuina{
+    color: #260085;
+    font-size: 30px;
+}
+#tituloLOTO{
+    color: #930089;
+    font-size: 30px;
+}
+#labelDezenasLF{
+    color: #930089;
+    font-size: 30px;
+    padding-right: 50px;
+}
+#coluna{
+    padding-right: 50px;
+    
+}
+#labelDezenas{
+    font-size: large;
+    color: #fff;
+}
+#espacoDezenas{
+    padding-right: 15px;
+}
+  td, th {
+    padding: 10px;
+  }
+  #tabela{
+      border: none;
+    border-bottom: 1px solid black;
+     margin: 10px 0;
+  }
+  table{
+    width: 100%;
+  }
+  #tdMetade{
+    width: 50%;
+  }
+
+  .navbar{
+    font-family: "Roboto";
+    padding-left: 25px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  #navbarActive{
+    color:  #aaa;
+    font-family: "Roboto";
+    padding-left: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    pointer-events:  none;
+    font-size: 30px;
+  }
+  #loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: "Roboto";
+    font-size: 200%;
+  }
